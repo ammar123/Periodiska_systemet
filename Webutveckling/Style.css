@@ -1,0 +1,50 @@
+table {
+	font-family:Verdana, Geneva, Arial, Helvetica, sans-serif;
+	border: 1px solid Black;
+	*border-collapse: collapse;
+	border-spacing: 0;
+	
+}
+h2 {
+	text-decoration: underline;
+}
+td {
+	font-family:Verdana, Geneva, Arial, Helvetica, sans-serif;
+	border: 1px solid black;
+	text-align:Center;
+	font-size: larger;
+	color: red;
+	*border-collapse: collapse;
+	border-spacing: 0;
+	width: 35px;
+}
+tr {
+	border: 1px solid;
+	height: 45px;
+}
+.Transitional_metals {
+	background-color: yellow;
+}
+.Alkali_metals {
+	background-color: silver;
+}
+.Eath_metals {
+	background-color: lime;
+}
+.nonmetals {
+	background-color: aqua;
+}
+.other_metals {
+	background-color: fuchsia;
+}
+.noble_gases {
+	background-color: orange;
+}
+
+
+
+
+
+
+
+
